@@ -2,7 +2,7 @@
 
 use `generateMD5` function to make string to hash md5 
 
-# Link
+# Repo Link
 
 ```
 https://github.com/Zrexer/md5Creator
